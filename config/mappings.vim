@@ -14,3 +14,7 @@ nnoremap <F6> :buffer 6 <CR>
 nnoremap <F7> :buffer 7 <CR>
 nnoremap <F8> :buffer 8 <CR>
 nnoremap <F9> :buffer 9 <CR>
+
+" Open a terminal
+" To get out of insert mode in terminal type: CTRL+\ CTRL+n
+nnoremap <leader>t :terminal <CR>
