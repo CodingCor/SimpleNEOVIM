@@ -1,3 +1,6 @@
+" SimpleNEOVIM Configuratin 
+" Author: Coding Cor
+" A simple configuration for coding and text editing 
 " Basic vim configuration 
 source ~/.config/nvim/config/basic.vim
 
