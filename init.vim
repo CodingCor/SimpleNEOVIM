@@ -13,6 +13,7 @@ call plug#begin('~/.config/nvim/plugged')
     Plug 'preservim/nerdtree'
     Plug 'ryanoasis/vim-devicons'
     Plug 'tpope/vim-fugitive'
+    Plug 'airblade/vim-gitgutter'
 call plug#end()
 
 " colorscheme
