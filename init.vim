@@ -14,6 +14,7 @@ call plug#begin('~/.config/nvim/plugged')
     Plug 'ryanoasis/vim-devicons'
     Plug 'tpope/vim-fugitive'
     Plug 'airblade/vim-gitgutter'
+    Plug 'mhinz/vim-startify'
 call plug#end()
 
 " colorscheme
@@ -25,3 +26,4 @@ source ~/.config/nvim/plugged-configs/airline.vim
 source ~/.config/nvim/plugged-configs/nerdtree.vim
 
 source ~/.config/nvim/config/mappings.vim
+
