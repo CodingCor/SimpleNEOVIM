@@ -24,6 +24,7 @@ colorscheme onedark
 source ~/.config/nvim/plugged-configs/coc.vim
 source ~/.config/nvim/plugged-configs/airline.vim
 source ~/.config/nvim/plugged-configs/nerdtree.vim
+source ~/.config/nvim/plugged-configs/startify.vim
 
 source ~/.config/nvim/config/mappings.vim
 
