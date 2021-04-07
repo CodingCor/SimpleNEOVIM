@@ -4,6 +4,8 @@
 " Basic vim configuration 
 source ~/.config/nvim/config/basic.vim
 
+" Specific settings for files, etc
+source ~/.config/nvim/config/specific.vim
 " Plugins 
 call plug#begin('~/.config/nvim/plugged')
     Plug 'joshdick/onedark.vim'

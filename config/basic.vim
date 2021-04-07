@@ -19,6 +19,7 @@ set encoding=utf-8
 set laststatus=2
 set showmode
 set showcmd
+set signcolumn=yes
 
 " whitespaces
 set colorcolumn=80
