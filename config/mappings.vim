@@ -20,3 +20,6 @@ nnoremap <C-x> :vsplit <CR>
 " Open a terminal
 " To get out of insert mode in terminal type: CTRL+\ CTRL+n
 nnoremap <leader>t :terminal <CR>
+
+" leave insert mode
+inoremap jk <ESC>
