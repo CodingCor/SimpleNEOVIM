@@ -23,3 +23,10 @@ nnoremap <leader>t :terminal <CR>
 
 " leave insert mode
 inoremap jk <ESC>
+
+" move lines up and down
+nnoremap <A-j> :m .+1<CR>==
+nnoremap <A-k> :m .-2<CR>==
+vnoremap <A-j> :m '>+1<CR>gv=gv
+vnoremap <A-k> :m '<-2<CR>gv=gv
+
