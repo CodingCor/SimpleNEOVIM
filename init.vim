@@ -17,6 +17,7 @@ call plug#begin('~/.config/nvim/plugged')
     Plug 'tpope/vim-fugitive'
     Plug 'airblade/vim-gitgutter'
     Plug 'mhinz/vim-startify'
+    Plug 'norcalli/nvim-colorizer.lua'
 call plug#end()
 
 " colorscheme
