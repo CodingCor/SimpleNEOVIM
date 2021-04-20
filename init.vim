@@ -22,6 +22,7 @@ call plug#end()
 
 " colorscheme
 colorscheme onedark
+set termguicolors
 
 " outsourced configurations
 source ~/.config/nvim/plugged-configs/coc.vim
